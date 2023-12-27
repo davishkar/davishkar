@@ -2,10 +2,10 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## About Me
+## About Me ☘️
 Hello! I'm Avishkar Deshmukh, a passionate individual on a journey to master the art of web development. Eager to contribute to innovative projects and make a mark in the industry. Currently, my focus is on refining my skills in front-end development to create engaging and user-friendly interfaces.
 
-## Skills
+## Skills  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 ### Technical Skills
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
@@ -15,20 +15,20 @@ Hello! I'm Avishkar Deshmukh, a passionate individual on a journey to master the
 - ![Figma](https://img.icons8.com/color/48/000000/figma.png) Figma
 
 
-## Projects
+## Projects 📑
 1. [Book Store](https://github.com/davishkar/BOOK-WEBPAGE/)
 2. [Music Webpage](https://github.com/davishkar/MUSIC-WEBPAGE)
 3. [Clone of Google Webpage](https://github.com/davishkar/Clone-of-google-webpage)
-   - ...
+   - and more see my repo 🗃️ ...
 
-## My GitHub Stats
+## My GitHub Stats 🎯
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davishkar&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/davishkar)
 
-## Languages and Tools
+## Languages and Tools 📍
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davishkar&layout=compact&theme=radical)](https://github.com/davishkar)
 
-## Contact Information
-- <p align="center">
+## Contact Information 📧
+ <p align="center">
 
 <a href="https://linktr.ee/avishkardeshmukh"><img alt="Website" src="https://img.shields.io/badge/Avishkar Deshmukh-black?style=flat-square&logo=google-chrome"></a>
 
@@ -40,5 +40,5 @@ Hello! I'm Avishkar Deshmukh, a passionate individual on a journey to master the
 
 </p>
 
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 Let's build the web together! 🚀
