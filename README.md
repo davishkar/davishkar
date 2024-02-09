@@ -27,7 +27,7 @@ Hello! I'm Avishkar Deshmukh, a passionate individual on a journey to master the
 ## Projects 📑
 1. [Book Store](https://github.com/davishkar/BOOK-WEBPAGE/)
 2. [Music Webpage](https://github.com/davishkar/MUSIC-WEBPAGE)
-3. [Clone of Google Webpage](https://github.com/davishkar/Clone-of-google-webpage)
+3. [collage Webpage](https://davishkar.github.io/COLLAGE-WEBPAGE/)
    - and more see my repo 🗃️ ...
 
 ## My GitHub Stats 🎯
