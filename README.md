@@ -8,19 +8,17 @@ Hello! I'm Avishkar Deshmukh, a passionate individual on a journey to master the
 ## Skills  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 ### Technical Skills
- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
- ![Figma](https://img.icons8.com/color/48/000000/figma.png) Figma
- ![jQuery](https://img.icons8.com/ios-filled/50/000000/jquery.png) jQuery
- ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
- ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) SQL
- ![SCSS](https://img.icons8.com/color/48/000000/sass.png) SCSS
- ![XML](https://img.icons8.com/color/48/000000/xml.png) XML
- ![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js
- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+
+| Frontend | Backend | Database | Version Control | Design |
+|:--------:|:-------:|:--------:|:---------------:|:---------------:|
+| ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js | ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) SQL | ![Git](https://img.icons8.com/color/48/000000/git.png) Git |  ![Figma](https://img.icons8.com/color/48/000000/figma.png) Figma | 
+| ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS | ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP | ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL | |
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | | | |
+| ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap | | | |
+| ![jQuery](https://img.icons8.com/ios-filled/50/000000/jquery.png) jQuery | | | |
+| ![SCSS](https://img.icons8.com/color/48/000000/sass.png) SCSS | | | |
+| ![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js | | | |
+
 - ... and more
 
 
