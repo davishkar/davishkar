@@ -2,10 +2,10 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## About Me ☘️
+### About Me ☘️
 Hello! I'm Avishkar Deshmukh, a passionate individual on a journey to master the art of web development. Eager to contribute to innovative projects and make a mark in the industry. Currently, my focus is on refining my skills in front-end development to create engaging and user-friendly interfaces.
 
-## Skills  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+### Skills  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 ### Technical Skills
 
