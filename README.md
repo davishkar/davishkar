@@ -12,8 +12,8 @@ Hello! I'm Avishkar Deshmukh, a passionate individual on a journey to master the
 | Frontend | Backend | Database | Version Control | Design |
 |:--------:|:-------:|:--------:|:---------------:|:---------------:|
 | ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js | ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) SQL | ![Git](https://img.icons8.com/color/48/000000/git.png) Git |  ![Figma](https://img.icons8.com/color/48/000000/figma.png) Figma | 
-| ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS | ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP | ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL | |
-| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | |![MongoDB](https://img.icons8.com/?size=50&id=bosfpvRzNOG8&format=png&color=000000) MongoDB  | |
+| ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS | ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP | ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL | ![GitHub](https://img.icons8.com/fluent/48/000000/github.png) GitHub | |
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript |  |![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  | | 
 | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap | | | | | 
 | ![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js | | | |
 
@@ -21,10 +21,9 @@ Hello! I'm Avishkar Deshmukh, a passionate individual on a journey to master the
 
 
 ## Projects 📑
-1. [Book Store](https://github.com/davishkar/BOOK-WEBPAGE/)
-2. [Music Webpage](https://github.com/davishkar/MUSIC-WEBPAGE)
-3. [collage Webpage](https://davishkar.github.io/COLLAGE-WEBPAGE/)
-   - and more see my repo 🗃️ ...
+Check out my full repository on GitHub below:
+
+[![GitHub Repositories](https://badges.pufler.dev/repos/davishkar)](https://github.com/davishkar?tab=repositories)
 
 ## My GitHub Stats 🎯
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davishkar&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/davishkar)
@@ -46,4 +45,5 @@ Hello! I'm Avishkar Deshmukh, a passionate individual on a journey to master the
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 Let's build the web together! 🚀
