@@ -41,6 +41,8 @@ Check out my full repository on GitHub below:
 <a href="https://www.instagram.com/avishkar_0.1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-avishkar_0.1-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:deshmukhavishkar2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-deshmukhavishkar2@gmail.com-blue?style=flat-square&logo=gmail"></a>
+##
+![Visitor Count](https://komarev.com/ghpvc/?username=davishkar&color=blue&style=flat-square)
 
 </p>
 
